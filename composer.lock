@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "352f9608c97b33e49d7842e4cd1abd80",
+    "content-hash": "ceaf20f545f00bc23fe43b5789262c6b",
     "packages": [
         {
             "name": "centraldesktop/protobuf-php",
@@ -584,6 +584,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-mbstring": "*"
+    },
     "platform-dev": []
 }
