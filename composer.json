@@ -9,6 +9,9 @@
         "monolog/monolog": "^1.24",
         "twig/twig": "^2.0",
         "twig/extensions": "^1.5",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "ext-ftp": "*",
+        "ext-pdo_sqlite": "*",
+        "ext-pdo": "*"
     }
 }
